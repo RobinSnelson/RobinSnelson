@@ -12,6 +12,3 @@ Get in touch
   - :email: rsnelson@rgsnelson.co.uk
   - :page_with_curl: My blog address is https://rgsnelson.co.uk
 
-
-
-[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinsnelson)](https://github.com/anuraghazra/github-readme-stats)
