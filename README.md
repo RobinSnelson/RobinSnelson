@@ -5,7 +5,7 @@ An enthusiastic infrastructure engineer with over 20 years experience in environ
  - Would love to collaborate on an open source project with like minded people
 
 
-Contact me 
- - Get intouch through twitter: @robingsnelson or via email: 
- - :email: rsnelson@rgsnelson.co.uk
- - My blog address is https://rgsnelson.co.uk
+Get in touch
+  :thumbsup: @robingsnelson
+  :email: rsnelson@rgsnelson.co.uk
+  :page_with_curl: My blog address is https://rgsnelson.co.uk
