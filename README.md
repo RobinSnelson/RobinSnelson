@@ -3,5 +3,9 @@ An enthusiastic infrastructure engineer with over 20 years experience in environ
  - Currently Studying for AZ-400 Microsoft Certified: DevOps Engineer Expert
  - Becoming proficient in terraform
  - Would love to collaborate on an open source project with like minded people
- - Get intouch through twitter: @robingsnelson or via email: rsnelson@rgsnelson.co.uk
+
+
+Contact me 
+ - Get intouch through twitter: @robingsnelson or via email: 
+ - :email: rsnelson@rgsnelson.co.uk
  - My blog address is https://rgsnelson.co.uk
