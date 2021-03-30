@@ -6,6 +6,6 @@ An enthusiastic infrastructure engineer with over 20 years experience in environ
 
 
 Get in touch
-  - :thumbsup: @robingsnelson
+  - :thumbsup: [@robingsnelson](https://twitter.com/RobinGSnelson)
   - :email: rsnelson@rgsnelson.co.uk
   - :page_with_curl: My blog address is https://rgsnelson.co.uk
