@@ -14,9 +14,9 @@ What I would love to do
  - to collaborate on an open source project with like minded people
 
 Please get in touch
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" height="20"> [@robingsnelson](https://twitter.com/RobinGSnelson)
-:email: rsnelson@rgsnelson.co.uk
-:page_with_curl: https://rgsnelson.co.uk
+  - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" height="20"> [@robingsnelson](https://twitter.com/RobinGSnelson)
+- :email: rsnelson@rgsnelson.co.uk
+- :page_with_curl: https://rgsnelson.co.uk
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
