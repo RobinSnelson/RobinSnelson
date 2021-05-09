@@ -18,3 +18,5 @@ Get in touch
   - :email: rsnelson@rgsnelson.co.uk
   - :page_with_curl: https://rgsnelson.co.uk
 
+
+[![Robin Snelson GitHub Stats](https://github-readme-stats.vercel.app/api?username=robinsnelson&show_icons=true&count_private=true)](https://github.com/robinsnelson)
