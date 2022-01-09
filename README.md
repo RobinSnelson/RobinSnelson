@@ -6,7 +6,6 @@ Where am I working
  
 What am I up too
  - Studying Azure
- - Learning Python
  - Practicing and polishing my terraform knowledge
  - studying using [Cloudskills.io](https://cloudskills.io/)
 
