@@ -10,7 +10,7 @@ What am I up too
 
 - Studying Azure
 - Practicing and polishing my terraform knowledge
-- studying using [Cloudskills.io](https://cloudskills.io/)
+- Learning Azure DevOPs
 
 What I would love to do
 
