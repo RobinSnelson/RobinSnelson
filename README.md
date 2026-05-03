@@ -22,7 +22,6 @@ What I would love to do
 
 Please get in touch
 
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" height="20"> [@robingsnelson](https://twitter.com/RobinGSnelson)
 - :email: rsnelson@rgsnelson.co.uk
 - :page_with_curl: https://rgsnelson.co.uk
 
