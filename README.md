@@ -1,15 +1,19 @@
-After being an enthusiastic microsoft infrastructure engineer for over 20 years, I found myself falling in love with cloud technologies. This has led me to be fully immesrsed in the infrastructure side of cloud, specializing in Azure. I am using tools such as Terraform, Azure VMWare Service. After being a fan of on Prem automation, theres even more scope for this in the cloud, exploring this to support the company I work for helping to to cut down on time wasted is a passion of mine.
+After more than 20 years in IT, starting in Microsoft infrastructure, I’ve evolved my focus toward cloud technologies, with the last four years dedicated to working in Azure. While my background in infrastructure provides a strong foundation, my current work is centred on building and operating modern cloud environments.
+
+I work with tools such as Terraform, applying infrastructure-as-code principles to deliver scalable and reliable platforms. My experience has naturally shifted from traditional infrastructure management toward automation, platform thinking, and improving how services are delivered in the cloud.
+
+Having always had an interest in automation, I now focus on using it in a cloud context to reduce manual effort, streamline processes, and enable teams to move faster. I’m particularly motivated by finding practical ways to improve efficiency and support the wider business through better use of cloud technologies.
 
 Where am I working
 
-- Currently working as cloud engineer at Emerald Publishing
+- Currently working as platform engineer at CGI
 
-I am working on a migration to Azure for all on Premise assets.
+I work on a high-profile retail project, where I lead the operations function. In this role, I’m responsible for managing, overseeing, and maintaining Azure DevOps pipelines to ensure reliable and efficient delivery.
 
 What am I up too
 
-- Studying Azure
-- Practicing and polishing my terraform knowledge
+- Studying Github Actions
+- Studying to take terraform certification
 - Learning Azure DevOPs
 
 What I would love to do
@@ -23,9 +27,9 @@ Please get in touch
 - :page_with_curl: https://rgsnelson.co.uk
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/cloud/github.svg" alt="Github" height="60" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/text%20editors/vscode.svg" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
 </p>
