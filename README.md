@@ -33,4 +33,9 @@ Please get in touch
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
 </p>
 
-[![Robin Snelson's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=robinsnelson)](https://enigmatic-harbor-42642.herokuapp.com/?name=robinsnelson)
+
+
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robinsnelson" alt="GitHub Streak" /></a>
+</p>
